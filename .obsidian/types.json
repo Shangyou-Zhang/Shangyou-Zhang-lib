@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "出版时间": "date",
+    "开始时间：": "text",
+    "出版时间：": "text",
+    "读完时间：": "text",
+    "总页数：": "text",
+    "已读页数：": "text"
+  }
+}
