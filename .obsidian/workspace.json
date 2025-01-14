@@ -11,14 +11,10 @@
             "id": "a3d8f715c69d8e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 我的书架/Markdown.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Markdown"
+              "title": "新标签页"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a3d8f715c69d8e81",
+  "active": "dd4dad0ff05834f8",
   "lastOpenFiles": [
     "01 我的书架/读书笔记/许家屯香港回忆录 Xu Jiatun Xianggang hui yi lu (许家屯 Xu, Jiatun) (Z-Library).pdf",
     "01 我的书架/读书笔记/戚本禹回忆录 (戚本禹) (Z-Library).pdf",
